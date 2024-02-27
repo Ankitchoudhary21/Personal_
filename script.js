@@ -15,7 +15,7 @@ document.getElementById("contactLink").addEventListener("click", () => {
 
 document.getElementById("resumeLink").addEventListener("click", () => {
   window.open(
-    "https://drive.google.com/file/d/1CzUjjMCYWwLOb_yyz5_BarCN1OMaPqI6/view?usp=sharing"
+    "https://drive.google.com/file/d/1ZRxZFOo2UIwzmPtbzlxwpqsJybKFs5Xr/view?usp=sharing"
   );
 });
  
